@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC017_loginWithAdmin</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9366ab7d-f1b9-47d2-b277-fd8bb0f5d0a1</testCaseGuid>
+</TestCaseEntity>

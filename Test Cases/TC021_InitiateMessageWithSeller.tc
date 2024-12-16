@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC021_InitiateMessageWithSeller</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>93e6b939-92fd-45cb-8120-6379d36993da</testCaseGuid>
+</TestCaseEntity>

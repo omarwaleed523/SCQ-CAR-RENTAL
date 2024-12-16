@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC023_ReciveMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7d860542-f609-45e7-ac10-dc145a97f09e</testCaseGuid>
+</TestCaseEntity>

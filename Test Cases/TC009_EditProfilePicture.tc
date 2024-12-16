@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC009_EditProfilePicture</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>660a82b1-f148-4ec3-a45a-57d63f86e6e9</testCaseGuid>
+</TestCaseEntity>

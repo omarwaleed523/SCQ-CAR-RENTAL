@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_4 Doors</name>
+   <tag></tag>
+   <elementGuidId>dfbb3fd8-dbfe-4a18-ac64-e177d1686dd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/persistgate/div/div[3]/div/div/form/div[2]/div/label[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>3e5d03f8-0b1d-4bf7-8395-934a4939116f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4 Doors</value>
+      <webElementGuid>4a5da52a-d704-4c37-b5bc-19a95d8871a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;Rentcars&quot;]/div[@class=&quot;Acontainer&quot;]/div[@class=&quot;sidebar&quot;]/form[1]/div[@class=&quot;filter&quot;]/div[@class=&quot;radio-group&quot;]/label[2]</value>
+      <webElementGuid>fe53d8c3-d4a4-4637-8584-6a7dbce68e4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/persistgate/div/div[3]/div/div/form/div[2]/div/label[2]</value>
+      <webElementGuid>203f7147-7109-4ff2-a080-0575589cc866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number of Doors:'])[1]/following::label[2]</value>
+      <webElementGuid>bf824d04-2d39-496a-95d7-72050171bfd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$200+'])[1]/following::label[3]</value>
+      <webElementGuid>43e22496-0368-42f8-a30f-ad4f7815470e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Car Type:'])[1]/preceding::label[1]</value>
+      <webElementGuid>dc7686f9-1f31-441e-80b6-48c90f1b1a47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SUV'])[1]/preceding::label[2]</value>
+      <webElementGuid>f294c653-947f-4254-979d-9ce071e7d7ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='4 Doors']/parent::*</value>
+      <webElementGuid>7c54657b-cebe-4860-9b98-a3cd7c5f2687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label[2]</value>
+      <webElementGuid>000175ec-92b7-4e39-b7f2-4b3cafac3574</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '4 Doors' or . = '4 Doors')]</value>
+      <webElementGuid>47598180-dabc-4011-95f0-19efb7dcf475</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

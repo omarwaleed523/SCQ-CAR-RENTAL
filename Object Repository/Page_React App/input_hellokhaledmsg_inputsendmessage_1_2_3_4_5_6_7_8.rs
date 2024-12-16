@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_hellokhaledmsg_inputsendmessage_1_2_3_4_5_6_7_8</name>
+   <tag></tag>
+   <elementGuidId>e1b6bffb-ff89-4a16-9c0e-41fdfa60ecdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='hello fr']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.inputsendmessage</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>81fbadfe-00af-4d01-a9ed-4a26f60afd37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inputsendmessage</value>
+      <webElementGuid>164ccd91-c90d-45ca-bd64-50b19faa951d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Send Message....</value>
+      <webElementGuid>8828fe6c-baad-4dd8-b362-9a06cd971e4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>hello fr</value>
+      <webElementGuid>e436e324-39d8-4086-b5c2-b41e66574749</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;Chatting&quot;]/div[@class=&quot;BigMessageContainer&quot;]/div[@class=&quot;sendmessageinput&quot;]/input[@class=&quot;inputsendmessage&quot;]</value>
+      <webElementGuid>9c3a5a15-29f6-4dce-95c1-94aad117839c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='hello fr']</value>
+      <webElementGuid>a7c64351-4d22-430d-8f9f-6a124ebf770c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/persistgate/div/div[3]/div/div[2]/input</value>
+      <webElementGuid>ca7fade3-c16b-44de-be56-949ae6fca75f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>69875137-2739-4fda-b3f2-6dfdbd34e0dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Send Message....']</value>
+      <webElementGuid>f5f70920-49ed-4656-b840-3845a2790262</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

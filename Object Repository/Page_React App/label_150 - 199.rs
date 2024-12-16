@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_150 - 199</name>
+   <tag></tag>
+   <elementGuidId>2888c460-956c-4d26-b426-7e53a5588147</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/persistgate/div/div[3]/div/div/form/div/div/label[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label:nth-of-type(5)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>847376bb-7348-488e-9258-662dc7d643c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$150 - $199</value>
+      <webElementGuid>603a55b1-2a5a-40cd-a288-708df118c0de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/persistgate[1]/div[@class=&quot;App&quot;]/div[@class=&quot;Rentcars&quot;]/div[@class=&quot;Acontainer&quot;]/div[@class=&quot;sidebar&quot;]/form[1]/div[@class=&quot;filter&quot;]/div[@class=&quot;radio-group&quot;]/label[5]</value>
+      <webElementGuid>02cdc458-7a0c-4e97-9405-a98cf25914f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/persistgate/div/div[3]/div/div/form/div/div/label[5]</value>
+      <webElementGuid>fc99ba37-c7fd-44dd-a738-3dfe19c6820e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$100 - $149'])[1]/following::label[1]</value>
+      <webElementGuid>5c6a38d1-bfd1-4b95-b982-733da3995312</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$60 - $99'])[1]/following::label[2]</value>
+      <webElementGuid>97f34ca4-d169-49ec-a037-22e392c73575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$200+'])[1]/preceding::label[1]</value>
+      <webElementGuid>2a47dcc4-39b8-4591-9c20-d19a9547b601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number of Doors:'])[1]/preceding::label[2]</value>
+      <webElementGuid>cbd4493a-9af9-4018-ac15-a3fe29731948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='$150 - $199']/parent::*</value>
+      <webElementGuid>e923fed1-a3e6-4bb4-8564-bba4b25d785e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[5]</value>
+      <webElementGuid>dc27d0d5-49c8-421f-a50d-a30a0857f93c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '$150 - $199' or . = '$150 - $199')]</value>
+      <webElementGuid>9e706393-9e04-4784-921e-d60621064fe8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

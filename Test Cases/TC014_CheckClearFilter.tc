@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC014_CheckClearFilter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f0d40baf-34c8-45a0-b610-298a49faa5fc</testCaseGuid>
+</TestCaseEntity>

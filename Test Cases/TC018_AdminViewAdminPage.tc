@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC018_AdminViewAdminPage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7cadc045-181a-41f5-9769-92e414cc2e32</testCaseGuid>
+</TestCaseEntity>
