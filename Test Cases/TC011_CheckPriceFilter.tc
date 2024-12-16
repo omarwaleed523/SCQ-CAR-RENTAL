@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC011_CheckPriceFilter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>346cac9f-f5f0-4b5b-9574-05e4906e3dd2</testCaseGuid>
+</TestCaseEntity>

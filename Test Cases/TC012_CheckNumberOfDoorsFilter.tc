@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC012_CheckNumberOfDoorsFilter</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df59ece0-d66a-4a87-96f1-be4c91838c41</testCaseGuid>
+</TestCaseEntity>

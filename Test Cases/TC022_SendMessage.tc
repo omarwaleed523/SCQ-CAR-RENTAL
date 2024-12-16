@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC022_SendMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0154ebac-f1b4-44d8-8f72-1b2ee0a16089</testCaseGuid>
+</TestCaseEntity>

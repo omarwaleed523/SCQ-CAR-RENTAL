@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC015_DeleteMyLisitng</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b0b4df59-8f3e-43e8-aacb-5b8b4d7372bb</testCaseGuid>
+</TestCaseEntity>

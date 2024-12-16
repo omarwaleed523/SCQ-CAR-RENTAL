@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004_EditUserEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bc91c289-4080-4ae8-b4d6-5e1943dcc469</testCaseGuid>
+</TestCaseEntity>

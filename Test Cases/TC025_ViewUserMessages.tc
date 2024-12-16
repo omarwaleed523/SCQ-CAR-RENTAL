@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC025_ViewUserMessages</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>60b5f1cf-4cdc-4738-b321-0f5ab52d361b</testCaseGuid>
+</TestCaseEntity>

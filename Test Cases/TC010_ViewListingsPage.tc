@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC010_ViewListingsPage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f9ad3b88-e505-4723-96ed-0a4b424c1a73</testCaseGuid>
+</TestCaseEntity>

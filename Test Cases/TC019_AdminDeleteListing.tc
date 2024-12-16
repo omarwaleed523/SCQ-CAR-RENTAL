@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC019_AdminDeleteListing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cffb5670-8ec3-46b5-a2d5-1e74b042567c</testCaseGuid>
+</TestCaseEntity>

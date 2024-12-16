@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC024_ViewUserContacts</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f8db022c-6ad8-4b2f-a415-7c7ff29248ce</testCaseGuid>
+</TestCaseEntity>

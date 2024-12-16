@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC008_ViewMyCarListings</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>665b6849-2690-42b9-a8a3-ef2339810545</testCaseGuid>
+</TestCaseEntity>
